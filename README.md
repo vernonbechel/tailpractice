@@ -1,1 +1,1 @@
-# tailpractice
+# My own tailwindcss practice.
